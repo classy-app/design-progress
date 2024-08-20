@@ -1,8 +1,8 @@
 # 2024-08-20
 
-[Today's Figma file](https://www.figma.com/design/gExw6OWSHfpdTFB5g34f6c/Classy-app?version-id=6456892748&node-id=57795-3045&t=2jCbciLPoNCazQ3S-0)
+[Today's Figma file](https://www.figma.com/design/gExw6OWSHfpdTFB5g34f6c/Classy-app?version-id=6460721471&node-id=57795-3045&t=8Er39uGYagjEU39N-0)
 
-Doing this in the computer class!
+Doing this in the computer class (and at home too)!
 
 ## Things I've added today
 
@@ -11,3 +11,6 @@ Doing this in the computer class!
 - Thread comments page
 - Text resource page
 - Assignment details page
+- [Added read and unread tabs to notifications page](./Changes-NotifTab.png)
+- [Add more assignment submission pages](./Changes-Assignment.png)
+- [Add private assignment comments page](./Changes-PrivateComments.png)
