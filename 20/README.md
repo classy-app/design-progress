@@ -6,7 +6,7 @@ Doing this in the computer class!
 
 ## Things I've added today
 
-[See this image](./Changes-Added.png)
+[See this image](./Changes.png)
 
 - Thread comments page
 - Text resource page
