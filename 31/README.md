@@ -1,6 +1,6 @@
 # 2024-08-31
 
-[Today's Figma file](https://www.figma.com/design/gExw6OWSHfpdTFB5g34f6c/Classy-app?version-id=6536596351&node-id=57795-3045&node-type=CANVAS&t=X446fUdzXRdoO9uj-0![alt text](image.png))
+[Today's Figma file](https://www.figma.com/design/gExw6OWSHfpdTFB5g34f6c/Classy-app?version-id=6536596351&node-id=57795-3045&node-type=CANVAS&t=X446fUdzXRdoO9uj-0)
 
 A few pages a day keeps the developers away! I realized that I also needed a tablet and desktop design for the app.
 
